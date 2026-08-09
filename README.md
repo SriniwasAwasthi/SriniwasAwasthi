@@ -2,10 +2,10 @@
 
 ### 💻 3rd Year CS & Software Engineering Student | Full-Stack & AI Systems Developer
 
-- 🔭 I’m currently building **FocusFlow Ultimate** and **Java-DSA-tracker**
-- 🧠 Deeply passionate about **Java**, **C++**, **Data Structures & Algorithms**, **React.js**, **Node.js**, **SQL**, and **AI Agents**
-- 🎓 CS Student exploring scalable system architecture and web performance optimization
-- ⚡ Fun fact: Built 14+ full-stack and interactive web applications!
+- 🚀 **Featured Projects:** Built [**FocusFlow Ultimate**](https://github.com/SriniwasAwasthi/FocusFlow) and [**Java-DSA-tracker**](https://github.com/SriniwasAwasthi/Java-DSA-tracker)
+- 🧠 **Technical Focus:** Deeply passionate about **Java**, **C++**, **Data Structures & Algorithms**, **React.js**, **Node.js**, **SQL**, and **AI Agents**
+- 🎓 **Education:** CS Student exploring scalable system architecture, AI tools, and web performance optimization
+- ⚡ **Achievement:** Built 14+ full-stack and interactive web applications!
 
 ---
 
@@ -23,7 +23,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Engineering Highlights
 
-![Sriniwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriniwasAwasthi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriniwasAwasthi&layout=compact&theme=tokyonight)
+![Public Repos](https://img.shields.io/badge/Public%20Repositories-15-00F2FE?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Specialization-Full--Stack%20%26%20AI-7F00FF?style=for-the-badge&logo=react&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Seeking%20SDE%20Internships-green?style=for-the-badge)
