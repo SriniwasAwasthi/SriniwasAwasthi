@@ -31,19 +31,21 @@
 
 ---
 
-## 💖 Thank You for Visiting!
+---
 
-> *"Thank you so much for taking the time to explore Profile Showcase!"* 🌟
+## 💖 Thank You for Visiting My Profile!
 
-Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+> *"Thank you for stopping by and getting to know my developer journey!"* 💻
 
-- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
-- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+Taking your time to review my projects, explore my repositories, and learn about my passion for software engineering is an honor. Every day is an opportunity to write cleaner code, solve challenging problems, and build software that makes a tangible impact.
 
-*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+- 🌟 **Enjoyed my portfolio of work?** Feel free to star my repositories or follow my ongoing open-source journey!
+- 📬 **Let's Collaborate:** I am actively seeking exciting engineering internships, open-source projects, and technical discussions. Let's connect right here on [GitHub](https://github.com/SriniwasAwasthi)!
+
+*Wishing you endless inspiration, great health, and happy coding!* ✨
 
 ---
 
 <div align="center">
-  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Continuous learner & software craftsman — <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
