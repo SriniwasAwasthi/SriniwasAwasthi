@@ -9,8 +9,10 @@
 <p align="center">
   <a href="mailto:sriawasthi164@gmail.com"><img src="https://img.shields.io/badge/Email-sriawasthi164%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SriniwasAwasthi"><img src="https://img.shields.io/badge/GitHub-SriniwasAwasthi-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sriniwas-awasthi/"><img src="https://img.shields.io/badge/LinkedIn-Sriniwas_Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://sriniwas-awasthi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Live-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   <a href="https://github.com/SriniwasAwasthi"><img src="https://img.shields.io/badge/Status-Seeking_SDE_Internships-00C853?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/sriniwas-awasthi/"><img src="https://img.shields.io/badge/LinkedIn-Sriniwas_Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -64,5 +66,6 @@ Taking your time to review my projects, explore my repositories, and learn about
 
 ---
 <div align="center">
-  <sub>Continuous learner & software craftsman • <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a></sub>
+  <sub>Continuous learner & software craftsman • <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a>
+  <a href="https://www.linkedin.com/in/sriniwas-awasthi/"><img src="https://img.shields.io/badge/LinkedIn-Sriniwas_Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></sub>
 </div>
