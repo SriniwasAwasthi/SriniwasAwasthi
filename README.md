@@ -53,6 +53,16 @@
 
 ---
 
-<p align="center">
-  <sub>Built with craftsmanship & continuous learning • <strong>Sriniwas Awasthi</strong></sub>
-</p>
+## 💖 Thank You for Visiting My Profile!
+
+> *"Thank you for stopping by and getting to know my developer journey!"* 💻
+
+Taking your time to review my projects, explore my repositories, and learn about my passion for software engineering is an honor. Every day is an opportunity to write cleaner code, solve challenging problems, and build software that makes a tangible impact.
+
+* 🌟 **Enjoyed my portfolio of work?** Feel free to star my repositories or follow my ongoing open-source journey!
+* 📬 **Let's Collaborate:** I am actively seeking exciting engineering internships, open-source projects, and technical discussions. Let's connect right here on [GitHub](https://github.com/SriniwasAwasthi)!
+
+---
+<div align="center">
+  <sub>Continuous learner & software craftsman • <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a></sub>
+</div>
