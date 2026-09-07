@@ -11,7 +11,6 @@
   <a href="https://github.com/SriniwasAwasthi"><img src="https://img.shields.io/badge/GitHub-SriniwasAwasthi-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sriniwas-awasthi/"><img src="https://img.shields.io/badge/LinkedIn-Sriniwas_Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://sriniwas-awasthi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Live-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-  <a href="https://github.com/SriniwasAwasthi"><img src="https://img.shields.io/badge/Status-Seeking_SDE_Internships-00C853?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -48,8 +47,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SriniwasAwasthi&show_icons=true&theme=tokyonight&hide_border=true" alt="Sriniwas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SriniwasAwasthi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SriniwasAwasthi&show_icons=true&theme=tokyonight&hide_border=true" alt="Sriniwas's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SriniwasAwasthi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
