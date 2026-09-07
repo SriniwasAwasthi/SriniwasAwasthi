@@ -66,6 +66,5 @@ Taking your time to review my projects, explore my repositories, and learn about
 
 ---
 <div align="center">
-  <sub>Continuous learner & software craftsman • <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a>
-  <a href="https://www.linkedin.com/in/sriniwas-awasthi/"><img src="https://img.shields.io/badge/LinkedIn-Sriniwas_Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></sub>
+  <sub>Continuous learner & software craftsman • <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a></sub>
 </div>
