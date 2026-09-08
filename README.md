@@ -25,12 +25,12 @@
 
 | Project | Description | Tech Stack | Status & Code |
 | :--- | :--- | :--- | :--- |
-| ⚡ **[Java DSA Tracker](https://github.com/SriniwasAwasthi/java-dsa-tracker)** | AI-powered interview prep platform with spaced repetition scheduling & Gemini AI code mentorship. | TypeScript, React, Gemini AI | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/java-dsa-tracker/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/java-dsa-tracker) |
-| 🍔 **[Amber & Herb](https://github.com/SriniwasAwasthi/amber-and-herb)** | Ultra-responsive food court & delivery web app with interactive menus, cart checkout, & Drizzle ORM. | Next.js 15, TypeScript, Drizzle ORM | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/amber-and-herb/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/amber-and-herb) |
-| 🚀 **[Stellar Assault](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter)** | 2D arcade browser space shooter with weapon upgrade trees, boss fights, & smooth 60 FPS Canvas. | React, TypeScript, HTML5 Canvas | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter) |
-| 👟 **[KIXTRA Studio](https://github.com/SriniwasAwasthi/kixtra-studio)** | 3D interactive custom sneaker design studio with real-time texture and lace rendering. | TypeScript, Three.js / Canvas | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/kixtra-studio/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/kixtra-studio) |
-| 📚 **[Book Matrix LMS](https://github.com/SriniwasAwasthi/book-matrix-lms)** | AI-driven Library Management System with circulation tracking, query automation, & SQLite backend. | Python, SQLite, JavaScript | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/book-matrix-lms/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/book-matrix-lms) |
-| 🏛️ **[Meridian Living](https://github.com/SriniwasAwasthi/meridian-living-ecommerce)** | Luxury smart home & interior decor platform with 90+ products, 3D scenes, & bundle discounts. | Next.js 15, TypeScript, Tailwind | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/meridian-living-ecommerce/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/meridian-living-ecommerce) |
+| ⚡ **[Java DSA Tracker](https://github.com/SriniwasAwasthi/java-dsa-tracker)** | AI-powered interview prep platform with spaced repetition scheduling & Gemini AI mentorship. | TypeScript, React 19, Gemini AI, Capacitor | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/java-dsa-tracker/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/java-dsa-tracker) |
+| 🏛️ **[Meridian Living](https://github.com/SriniwasAwasthi/meridian-living-ecommerce)** | Luxury smart home & interior decor platform with 90+ products, 3D scenes, & bundle builders. | Next.js 16, TypeScript, Drizzle ORM, PG | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/meridian-living-ecommerce/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/meridian-living-ecommerce) |
+| 🍔 **[Amber & Herb](https://github.com/SriniwasAwasthi/amber-and-herb)** | Ultra-responsive food court & delivery web app with interactive menus, cart checkout, & Drizzle ORM. | Next.js 16, TypeScript, Drizzle ORM, PG | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/amber-and-herb/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/amber-and-herb) |
+| 🚀 **[Stellar Assault](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter)** | 2D arcade browser space shooter with weapon upgrade trees, boss fights, & smooth 60 FPS Canvas. | React 19, TypeScript, HTML5 Canvas, Vite | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter) |
+| 📚 **[Book Matrix LMS](https://github.com/SriniwasAwasthi/book-matrix-lms)** | Hybrid AI-driven Library Management System with C backend interop, circulation tracking, & SQLite. | Python, C, SQLite, JavaScript | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/book-matrix-lms/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/book-matrix-lms) |
+| 🌐 **[Engineering Portfolio](https://github.com/SriniwasAwasthi/sriniwas-awasthi-portfolio)** | Personal developer workstation with 3D particles, live GitHub integration, and dark/light themes. | Next.js 15, TypeScript, Three.js, Framer | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/sriniwas-awasthi-portfolio/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/sriniwas-awasthi-portfolio) |
 
 ---
 
@@ -60,16 +60,15 @@
 
 ---
 
-## 💖 Thank You for Visiting My Profile!
+## 💖 Connect & Collaborate
 
-> *"Thank you for stopping by and getting to know my developer journey!"* 💻
-
-Taking your time to review my projects, explore my repositories, and learn about my passion for software engineering is an honor. Every day is an opportunity to write cleaner code, solve challenging problems, and build software that makes a tangible impact.
-
-* 🌟 **Enjoyed my portfolio of work?** Feel free to star my repositories or follow my ongoing open-source journey!
-* 📬 **Let's Collaborate:** I am actively seeking exciting engineering internships, open-source projects, and technical discussions. Let's connect right here on [GitHub](https://github.com/SriniwasAwasthi)!
+* 🌟 **Explore My Work:** Check out my flagship repositories and live deployments!
+* 📬 **Let's Connect:** I am actively seeking engineering internships and full-stack/AI software opportunities.
+* 🌐 **Portfolio:** [sriniwas-awasthi-portfolio.netlify.app](https://sriniwas-awasthi-portfolio.netlify.app/)
+* 💼 **LinkedIn:** [linkedin.com/in/sriniwas-awasthi](https://www.linkedin.com/in/sriniwas-awasthi/)
+* 📧 **Email:** [sriawasthi164@gmail.com](mailto:sriawasthi164@gmail.com)
 
 ---
 <div align="center">
-  <sub>Continuous learner & software craftsman • <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a></sub>
+  <sub>Software Engineering Student • <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a></sub>
 </div>
