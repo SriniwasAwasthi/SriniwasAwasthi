@@ -13,17 +13,24 @@
   <a href="https://sriniwas-awasthi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Live-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tests-Passing-brightgreen.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_Source-Ready-blue.svg?style=flat-square" />
+</p>
+
 ---
 
 ### 🌟 Featured Flagship Projects
 
-| Project | Description | Tech Stack | Live Demo & Code |
+| Project | Description | Tech Stack | Status & Code |
 | :--- | :--- | :--- | :--- |
-| ⚡ **Java DSA Tracker** | AI-powered interview preparation platform with spaced repetition & Gemini AI mentor. | TypeScript, React, Gemini AI | [🚀 Repo](https://github.com/SriniwasAwasthi/java-dsa-tracker) |
-| 🍔 **Amber & Herb** | Ultra-responsive food court & delivery app with interactive menus & cart checkout. | Next.js 15, TypeScript, Drizzle ORM | [🚀 Repo](https://github.com/SriniwasAwasthi/amber-and-herb) |
-| 🚀 **Stellar Assault** | 2D arcade browser space shooter with weapon trees, boss fights, and smooth 60 FPS. | React, TypeScript, HTML5 Canvas | [🚀 Repo](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter) |
-| 👟 **KIXTRA Studio** | 3D interactive custom sneaker design studio with real-time texture and lace rendering. | TypeScript, Three.js / Canvas | [🚀 Repo](https://github.com/SriniwasAwasthi/kixtra-studio) |
-| 📚 **Book Matrix LMS** | AI-driven Library Management System with circulation tracking and query automation. | Python, SQLite, JavaScript | [🚀 Repo](https://github.com/SriniwasAwasthi/book-matrix-lms) |
+| ⚡ **[Java DSA Tracker](https://github.com/SriniwasAwasthi/java-dsa-tracker)** | AI-powered interview prep platform with spaced repetition scheduling & Gemini AI code mentorship. | TypeScript, React, Gemini AI | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/java-dsa-tracker/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/java-dsa-tracker) |
+| 🍔 **[Amber & Herb](https://github.com/SriniwasAwasthi/amber-and-herb)** | Ultra-responsive food court & delivery web app with interactive menus, cart checkout, & Drizzle ORM. | Next.js 15, TypeScript, Drizzle ORM | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/amber-and-herb/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/amber-and-herb) |
+| 🚀 **[Stellar Assault](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter)** | 2D arcade browser space shooter with weapon upgrade trees, boss fights, & smooth 60 FPS Canvas. | React, TypeScript, HTML5 Canvas | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter) |
+| 👟 **[KIXTRA Studio](https://github.com/SriniwasAwasthi/kixtra-studio)** | 3D interactive custom sneaker design studio with real-time texture and lace rendering. | TypeScript, Three.js / Canvas | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/kixtra-studio/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/kixtra-studio) |
+| 📚 **[Book Matrix LMS](https://github.com/SriniwasAwasthi/book-matrix-lms)** | AI-driven Library Management System with circulation tracking, query automation, & SQLite backend. | Python, SQLite, JavaScript | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/book-matrix-lms/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/book-matrix-lms) |
+| 🏛️ **[Meridian Living](https://github.com/SriniwasAwasthi/meridian-living-ecommerce)** | Luxury smart home & interior decor platform with 90+ products, 3D scenes, & bundle discounts. | Next.js 15, TypeScript, Tailwind | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/meridian-living-ecommerce/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/meridian-living-ecommerce) |
 
 ---
 
