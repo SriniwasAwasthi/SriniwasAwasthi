@@ -54,7 +54,7 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=SriniwasAwasthi&show_icons=true&theme=tokyonight&hide_border=true" alt="Sriniwas's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SriniwasAwasthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sriniwas's GitHub Stats" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SriniwasAwasthi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
