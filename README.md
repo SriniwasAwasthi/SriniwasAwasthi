@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/SriniwasAwasthi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=3rd+Year+CS+%26+Software+Engineering+Student;Full-Stack+%26+AI+Systems+Architect;Passionate+about+Java%2C+C%2B%2B%2C+Next.js+%26+AI+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=3rd+Year+CS+%26+Software+Engineering+Student;Full-Stack+%26+AI+Systems+Architect;Passionate+about+Python%2C+Java%2C+C%2B%2B%2C+Next.js+%26+AI+Agents" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,13 +23,13 @@
 
 ### 🌟 Featured Flagship Projects
 
-| Project | Description | Tech Stack | Status & Code |
+| Project | Domain & Key Innovation | Tech Stack | Status & Repo |
 | :--- | :--- | :--- | :--- |
+| ⚡ **[Gemini Flow](https://github.com/SriniwasAwasthi/gemini-flow)** | Low-latency AI voice dictation with real-time audio DSP noise cancellation & Windows HUD auto-typing. | Python 3.11, Gemini Flash, PyAudio, CustomTkinter | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/gemini-flow/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/gemini-flow) |
 | ⚡ **[Java DSA Tracker](https://github.com/SriniwasAwasthi/java-dsa-tracker)** | AI-powered interview prep platform with spaced repetition scheduling & Gemini AI mentorship. | TypeScript, React 19, Gemini AI, Capacitor | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/java-dsa-tracker/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/java-dsa-tracker) |
 | 🏛️ **[Meridian Living](https://github.com/SriniwasAwasthi/meridian-living-ecommerce)** | Luxury smart home & interior decor platform with 90+ products, 3D scenes, & bundle builders. | Next.js 16, TypeScript, Drizzle ORM, PG | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/meridian-living-ecommerce/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/meridian-living-ecommerce) |
-| 🍔 **[Amber & Herb](https://github.com/SriniwasAwasthi/amber-and-herb)** | Ultra-responsive food court & delivery web app with interactive menus, cart checkout, & Drizzle ORM. | Next.js 16, TypeScript, Drizzle ORM, PG | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/amber-and-herb/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/amber-and-herb) |
+| 📚 **[Book Matrix LMS](https://github.com/SriniwasAwasthi/book-matrix-lms)** | Hybrid AI-driven Library Management System with C backend interop, circulation tracking, & SQLite. | Python, C (Native FFI), SQLite, HTML/JS | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/book-matrix-lms/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/book-matrix-lms) |
 | 🚀 **[Stellar Assault](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter)** | 2D arcade browser space shooter with weapon upgrade trees, boss fights, & smooth 60 FPS Canvas. | React 19, TypeScript, HTML5 Canvas, Vite | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/stellar-assault-space-shooter) |
-| 📚 **[Book Matrix LMS](https://github.com/SriniwasAwasthi/book-matrix-lms)** | Hybrid AI-driven Library Management System with C backend interop, circulation tracking, & SQLite. | Python, C, SQLite, JavaScript | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/book-matrix-lms/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/book-matrix-lms) |
 | 🌐 **[Engineering Portfolio](https://github.com/SriniwasAwasthi/sriniwas-awasthi-portfolio)** | Personal developer workstation with 3D particles, live GitHub integration, and dark/light themes. | Next.js 15, TypeScript, Three.js, Framer | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SriniwasAwasthi/sriniwas-awasthi-portfolio/blob/main/LICENSE) [🚀 Repo](https://github.com/SriniwasAwasthi/sriniwas-awasthi-portfolio) |
 
 ---
@@ -37,11 +37,11 @@
 ### 🛠️ Technical Skills & Tooling
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
